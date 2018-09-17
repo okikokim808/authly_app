@@ -1,0 +1,1 @@
+web: gunicorn authly.wsgi --log-file -
